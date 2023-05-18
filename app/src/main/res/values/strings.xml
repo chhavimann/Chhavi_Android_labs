@@ -1,3 +1,5 @@
-<resources>
-    <string name="app_name">Chhavi\'s Android Labs</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="MissingTranslation">Chhavi\'s Android Labs</string>
+    <string name="hello_message">Hello world!</string>
+    <string name="button_message">I\'m a button</string>
 </resources>
